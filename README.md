@@ -5,3 +5,5 @@ Learning Git and GitHub
 This repository is for learning Git and GitHub.
 
 Created as part of my AI job readiness program.
+
+This line was added directly on GitHub.
